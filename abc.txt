@@ -24,3 +24,23 @@ gitignore --> used to ignore some files to be pushed in github
 3) ! test.a --> do not ignore test.a 
 4)  /todo --> ignore this current directory
 5) test/ --> ignore all file inside test directory 
+
+
+git rm file_name--> used to delete a file from directory 
+ex--> git rm hello.txt 
+      git commit -m "deleted hello.txt"
+
+
+git rm -f file_name --> a modified file not yet in staging area   
+                        is forcefully removed
+
+
+git rm --cached <file_name> --> a file to be removed from staging 
+                                area to modified state
+            
+
+
+
+
+
+
