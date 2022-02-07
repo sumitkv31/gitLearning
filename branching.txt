@@ -1,0 +1,2 @@
+git branch --> show total branch currently
+git branch branch_name --> add a new branch with branch_name 
