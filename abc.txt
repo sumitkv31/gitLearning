@@ -60,3 +60,7 @@ git checkout file_name -->when we modified our file but we don't want these
                         similar to undo till last commit 
 
 ex--> git checkout -- file_name 
+
+git stash --> modiied goes to stack 
+git stash pop --> modified comes to file 
+git stash clear --> empty stack 
