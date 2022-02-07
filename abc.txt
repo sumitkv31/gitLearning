@@ -1,1 +1,17 @@
-hello i am txt
+GIT COMMANDS
+
+git init --> it start tracking the folder (it makes .git folder to maintain record folder)
+
+git add . --> add all files in folder to staging area
+git add hello.txt abc.txt --> stage only these file 
+
+git commit -m "message"  --> commit this file (it become latest version)
+
+git status --> show  current status of folder 
+git log --> every change show 
+
+git config --global user.name "give user name"
+git config --global user.email "give email"
+
+git push -u origin main --> push to github for 1st time
+git push --> push to github afterward
