@@ -69,4 +69,14 @@ git stash clear --> empty stack
 git restore --> move file to last staged area(green) or if no staged area is present 
                 move it to last commited area 
 
-               
+git fetch --> when our repositery in github has been changed and we want 
+            to push our local repositery to that github we first have to fetch 
+            the repositery to our local then only we can push 
+step -->1) git fetch origin 
+        2) git merge 
+        3) press esc then q(for quit)
+
+        or alternate
+        
+        1) git pull
+
