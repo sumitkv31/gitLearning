@@ -55,4 +55,8 @@ git reset--> a file in staging area(green) is removed to modified area(red) by u
 git reset HEAD file_name 
 
 
-git checkout file_name --> when we want to move to previous commit version
+git checkout file_name -->when we modified our file but we don't want these 
+                        modification we use this command 
+                        similar to undo till last commit 
+
+ex--> git checkout -- file_name 
