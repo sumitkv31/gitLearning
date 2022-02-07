@@ -53,3 +53,6 @@ step 6--> now we are outside the editor
 
 git reset--> a file in staging area(green) is removed to modified area(red) by using this command 
 git reset HEAD file_name 
+
+
+git checkout file_name --> when we want to move to previous commit version
