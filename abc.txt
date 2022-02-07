@@ -15,3 +15,12 @@ git config --global user.email "give email"
 
 git push -u origin main --> push to github for 1st time
 git push --> push to github afterward
+
+git clone link_of_file --> used to clone an existing github project
+
+gitignore --> used to ignore some files to be pushed in github 
+1)  * .a  --> ignore all .a file 
+2)  * .[oa] --> ignore all .a and .o file 
+3) ! test.a --> do not ignore test.a 
+4)  /todo --> ignore this current directory
+5) test/ --> ignore all file inside test directory 
