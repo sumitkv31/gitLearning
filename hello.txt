@@ -1,3 +1,16 @@
-Hello everyone kaise ho sare
-2nd change 
-once more 
+a folder is present in 4 area 
+untracked-->unmodified-->modified-->staged
+
+untracked --> file which is either not commited or 
+                not added in staging area
+
+tracked --> there are 3 status of tracked file
+            1. unmodified 
+            2. modified 
+            3. commited 
+
+suppose we have a unmodified file--> we change something 
+in it --> now we have to add it to staging area first 
+--> now from staging area we can commit the file to local repositery(it become latest version)
+--> if we delete an unmodified file it become untracked
+--> now when we add it , it goes to staging area 
