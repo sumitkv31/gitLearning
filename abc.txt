@@ -69,4 +69,4 @@ git stash clear --> empty stack
 git restore --> move file to last staged area(green) or if no staged area is present 
                 move it to last commited area 
 
-                kshdh dhdjs dkshj
+               
