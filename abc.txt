@@ -32,14 +32,16 @@ ex--> git rm hello.txt
 
 
 git rm -f file_name --> a modified file not yet in staging area   
-                        is forcefully removed
+                         is forcefully removed
 
 
 git rm --cached <file_name> --> a file to be removed from staging 
                                 area to modified state
             
 
-
+git commit --amend  --> when we want to change file in previous commit only 
+                        and do not increase our no. of commit we do this 
+                        
 
 
 
