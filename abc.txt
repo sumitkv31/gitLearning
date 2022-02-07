@@ -64,3 +64,9 @@ ex--> git checkout -- file_name
 git stash --> modiied goes to stack 
 git stash pop --> modified comes to file 
 git stash clear --> empty stack 
+
+
+git restore --> move file to last staged area(green) or if no staged area is present 
+                move it to last commited area 
+
+                kshdh dhdjs dkshj
