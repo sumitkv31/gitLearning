@@ -1,0 +1,7 @@
+steps-->
+git init 
+git add .
+git commit -m "message"
+git remote set-url origin https://github.com/sumitkv31/Repo_name.git  or git remote add origin https://github.com/sumitkv31/repo_name.git
+check--> git remote -v
+git push origin main --> complete browser authintication
